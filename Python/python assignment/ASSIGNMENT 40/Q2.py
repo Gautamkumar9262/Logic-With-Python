@@ -1,0 +1,1 @@
+#write a recursive function to calculate factorial of given number.

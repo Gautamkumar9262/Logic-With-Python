@@ -1,0 +1,1 @@
+#write a recursive funtion to print first N odd natural numbers.

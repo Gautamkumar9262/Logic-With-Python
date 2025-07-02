@@ -1,0 +1,1 @@
+#write a recursive function to print cubes of first N natural numbers.

@@ -1,0 +1,1 @@
+#write a python function to filter out words from a text starting from same alphjabate and store them in a list. now create a dict with alphabets as key values and list of words starting from that alphabet as data values. take text as an argument and return dict object (TSRS)

@@ -1,0 +1,1 @@
+#write a recursive function to calculate sum of digit of given number.

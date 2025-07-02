@@ -1,0 +1,1 @@
+#write a recursive function to calculate squares of first N natural Numbers.

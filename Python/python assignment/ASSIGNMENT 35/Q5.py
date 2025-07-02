@@ -1,0 +1,1 @@
+#write a python function to find all the common factors of two given numbers. return a tuple of such factors (TSRS)

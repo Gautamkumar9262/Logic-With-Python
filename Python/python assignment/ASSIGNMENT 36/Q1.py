@@ -1,0 +1,1 @@
+#write a python function to remove duplicate elements from a given list.(TSRS)
